@@ -1,16 +1,19 @@
-### Hi there 👋
+ <div align="left">
+   <a href="https://discord.com/users/1147607733319770123" target="_blank">
+      <img src="https://lanyard-profile-readme.vercel.app/api/1147607733319770123">
+   </a>
+</div>
 
-<!--
-**6lencieux/6lencieux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 **Languages & Tools**
 
-Here are some ideas to get you started:
+<code><img height="30" src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white" /></code>  
+<code><img alt="js" height="30" src="https://img.shields.io/badge/-Javascript-yellow?style=flat&logo=javascript&logoColor=white" /></code>  
+<code><img height="30" src="https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=Node.js&logoColor=white" /></code>  
+<code><img alt="npm" height="30" src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&logoColor=white" /></code>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+## 🎈 **Visitor Count**
+ 
+<a href="https://github.com/6lencieux">
+ <p align="">
+  <img src="https://profile-counter.glitch.me/6lencieux/count.svg" />
